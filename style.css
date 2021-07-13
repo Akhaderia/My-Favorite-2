@@ -1,0 +1,44 @@
+img {
+  border-radius: 50%;
+  width:200px;
+  
+}
+body{
+  text-align:center;
+  background:linear-gradient(pink 0%,purple 100%);
+  background-repeat: no-repeat;
+}
+.menu{
+list-style: none;
+    float: right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:aquamarine;
+
+}
+.link{
+    color:black;
+    display:inline;
+    padding-top:5px
+         padding-bottom:5px
+        padding-right:9px;
+      padding-left:9px;
+}
+.line{
+    height:6px;
+  background-color:  Black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding :20px;
+    font-size: 25px;
+    background-color: aqua
+}
+#welcome{
+    padding:70px;
+}
+        
+        
+}
